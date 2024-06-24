@@ -1,0 +1,123 @@
+altair==5.2.0
+annotated-types==0.6.0
+anthropic==0.21.3
+anyio==4.3.0
+attrs==23.2.0
+beautifulsoup4==4.12.2
+bidict==0.22.1
+blinker==1.7.0
+cachetools==5.3.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+chompjs==1.2.2
+click==8.1.7
+contourpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_deuzpvbq4p/croot/contourpy_1700583585680/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+distro==1.9.0
+filelock==3.13.1
+Flask==3.0.0
+Flask-Cors==4.0.0
+Flask-SocketIO==5.3.6
+fonttools==4.25.0
+fsspec==2024.3.1
+gitdb==4.0.11
+GitPython==3.1.40
+google-ai-generativelanguage==0.4.0
+google-api-core==2.15.0
+google-api-python-client==2.125.0
+google-auth==2.26.1
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+google-generativeai==0.3.2
+googleapis-common-protos==1.62.0
+grpcio==1.60.0
+grpcio-status==1.60.0
+gspread==6.1.0
+h11==0.14.0
+httpcore==1.0.4
+httplib2==0.22.0
+httpx==0.27.0
+huggingface-hub==0.21.4
+idna==3.4
+importlib-metadata==6.11.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+jsonschema==4.20.0
+jsonschema-specifications==2023.12.1
+kiwisolver @ file:///Users/ec2-user/ci_py311/kiwisolver_1678322457192/work
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+matplotlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_52jpupryfi/croot/matplotlib-suite_1698692115510/work
+mdurl==0.1.2
+mkl-fft @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af8wl3mjfu/croot/mkl_fft_1695058185839/work
+mkl-random @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0fq2s894lk/croot/mkl_random_1695059822529/work
+mkl-service==2.4.0
+MouseInfo==0.1.3
+munkres==1.1.4
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_97k4h5q73m/croot/numpy_and_numpy_base_1704311708477/work/dist/numpy-1.26.3-cp311-cp311-macosx_10_9_x86_64.whl#sha256=2ebf6a0390ba9e55eeb97f369d6e20fd5cff5bd78934ae8c164e4c8b153406ca
+oauth2client==4.1.3
+oauthlib==3.2.2
+openai==1.14.2
+packaging==23.2
+pandas==2.1.4
+Pillow @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_18z8l26k8d/croot/pillow_1696580044342/work
+proto-plus==1.23.0
+protobuf==4.25.1
+pyaes==1.6.1
+pyarrow==14.0.2
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+PyAutoGUI==0.9.54
+pydantic==2.6.4
+pydantic_core==2.16.3
+pydeck==0.8.1b0
+PyGetWindow==0.0.9
+Pygments==2.17.2
+PyMsgBox==1.0.9
+pyobjc-core==10.2
+pyobjc-framework-Cocoa==10.2
+pyobjc-framework-Quartz==10.2
+pyparsing @ file:///Users/ec2-user/ci_py311/pyparsing_1678322828710/work
+pyperclip==1.8.2
+PyRect==0.2.0
+PyScreeze==0.1.30
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==1.0.0
+python-engineio==4.8.0
+python-socketio==5.10.0
+python-telegram-bot==21.2
+pytweening==1.2.0
+pytz==2023.3.post1
+PyYAML==6.0.1
+referencing==0.32.1
+regex==2023.12.25
+requests==2.31.0
+requests-oauthlib==2.0.0
+rich==13.7.0
+rpds-py==0.16.2
+rsa==4.9
+rubicon-objc==0.4.7
+simple-websocket==1.0.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap==5.0.1
+sniffio==1.3.1
+soupsieve==2.5
+streamlit==1.29.0
+StrEnum==0.4.15
+Telethon==1.35.0
+tenacity==8.2.3
+tokenizers==0.15.2
+toml==0.10.2
+toolz==0.12.0
+tornado @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_65x80foild/croot/tornado_1696936984963/work
+tqdm==4.66.1
+typing_extensions==4.9.0
+tzdata==2023.4
+tzlocal==5.2
+uritemplate==4.1.1
+urllib3==2.1.0
+validators==0.22.0
+websocket-client==1.6.4
+Werkzeug==3.0.1
+wsproto==1.2.0
+zipp==3.17.0
